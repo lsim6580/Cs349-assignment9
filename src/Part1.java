@@ -33,7 +33,7 @@ public class Part1 extends Thread{
 
     public void run(){
 
-        for(int x = 0; x < 2000000000; x ++){
+        for(int x = 0; x < 200000; x ++){
             f();
         }
         }
